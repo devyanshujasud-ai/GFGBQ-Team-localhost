@@ -1,20 +1,3 @@
-# 1. Problem Statement
-**PS 10:** Ensuring Equal Electoral Participation for Specially Abled Individuals
-
-# 2. Project Name
-**IncluVote** 
-# 3. Team Name
-**ByteQuest 2025** (Team localhost)
-
-
-
-# 4. Demonstration Video (2 minutes)
-> 📹 [Watch Demo Video](https://drive.google.com/drive/folders/1EDuNyL6h_doN5jFVw4bhjbBLP9i8YIrd?usp=drive_link)
-
-# 5. PPT Link
-> 📊 [View Presentation](https://drive.google.com/drive/folders/1EDuNyL6h_doN5jFVw4bhjbBLP9i8YIrd?usp=drive_link)
-
----
 
 # IncluVote - Accessible Voice-Enabled Voting Platform
 
@@ -270,11 +253,7 @@ This project is licensed under the MIT License.
 
 ---
 
-## 👥 Team
 
-**ByteQuest 2025** - GFG Hackathon Team
-
----
 
 <div align="center">
 
